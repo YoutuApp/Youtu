@@ -4,14 +4,13 @@ mobile app. Please read our privacy policy carefully.
 
  ##### 1. How the company collects your personal information
 Personal information is data that can be used to uniquely identify or contact someone.When you use our company's
-mobile app, we will collect your personal information during registration of users, such as: email address. In order to protect personal privacy, you should not provide any other information than the
+mobile app, we will collect your personal information during registration of users, such as: unique device identifiers. In order to protect personal privacy, you should not provide any other information than the
 company specifically requests.
 
 ##### 2. How the company uses your personal information
 
     <p>1. Through your personal information, send you the service information of our company's mobile app.</p>
-    <p>2. Recover your password with your personal information.</p>
-    <p>3. Except for the reorganization, merger or sale of the company, we may transfer all personal information we
+    <p>2. Except for the reorganization, merger or sale of the company, we may transfer all personal information we
         collect to the relevant third party. The company will not provide, sell, rent, share or trade your personal
         information to any unrelated third parties unless prior With your permission, or the third party and the
         company alone or together to provide services for you, and after the end of the service, it will be
